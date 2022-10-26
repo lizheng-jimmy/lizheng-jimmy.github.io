@@ -13,15 +13,13 @@ Education
 ======
 * B.S. in Computer Science, University of Michigan Ann Arbor, 2024 (expected)
 * B.S. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2024 (expected)
-#* M.S. in Jekyll, GitHub University, 2014
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * University of Michigan- Shanghai Jiao Tong University Joint Institute Center For Entrepreneurship
+  * Supervisor: Predeep Ray
+  * Did some research.
 
 * Fall 2015: Research Assistant
   * Github University
