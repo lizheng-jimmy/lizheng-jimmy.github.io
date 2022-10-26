@@ -83,11 +83,11 @@ author:
   name             : "Zheng Li"
   avatar           : "Personal Photo1.png"
   bio              : "UM CS UM-SJTU JI ECE"
-  location         : "Shang Hai, China"
+  location         : "Ann Arbor, Michigan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "jimmyli@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/lizheng-jimmy"
   google_plus      :
   keybase          :
   instagram        :
@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  projects:
     output: true
     permalink: /:collection/:path/
 
@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _projects
   - scope:
       path: ""
-      type: talks
+      type: projects
     values:
-      layout: talk
+      layout: project
       author_profile: true
       share: true
 
