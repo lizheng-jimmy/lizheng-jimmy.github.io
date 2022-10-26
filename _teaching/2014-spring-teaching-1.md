@@ -4,9 +4,9 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Michigan-Shanghai Jiao Tong University Joint Institute"
-##2022-05-01##
+date: 2015-01-01
 location: "Shanghai, China"
 ----
 
-#Description:#
-##Grading weekly assignments.##
+Description:
+Grading weekly assignments.
