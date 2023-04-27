@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**This site is no longer in use. Please visit my new website at [here](https://jimmylizheng.github.io/)**
+
 Hi there! I'm Zheng Li and you can call me Jimmy if you want. Currently, I’m a sophomore student majoring in Electrical and Computer Engineering from University of Michigan-Shanghai Jiao Tong University Joint Institute (UM-SJTU JI or JI in short). Since I’m currently enrolled in the dual degree program of JI, I will go to the University of Michigan (UM) in the coming fall semester and my major in UM is Computer Science. Besides engineering, I’m also interested in Business so I’m also planning to get the minor in Entrepreneurship in JI.
 
 In order to put what I learnt into real practice, I joined Turingo as a software engineer intern and did research about light storage chips last year. The group that I was in used fused silica as the raw material to make storage chips and used light to “write” the data into the chips. The 3-month internship really widened my horizon and I found that what I learnt in school is actually quite different from the real industrial practice.
